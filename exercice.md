@@ -1,6 +1,6 @@
 ## Exercice - Création d'un script bash
 
-Créer un script simple qui s'éxécute qui permet de réaliser certaines actions en utilisant nos librairie bas niveau.
+Créer un script simple qui s'éxécute, qui permet de réaliser certaines actions en utilisant nos librairies bas niveau préférées.
 
 Si vous souhaitez, vous pouvez améliorer ce script pour automatiser un processus qui mette à jour des données.
 
@@ -22,6 +22,8 @@ La couche des départements Admin  Express.
 - Injecter les communes du département qui commençent par la lettres "f"
 
 - créer une vue des courbes de niveau de ces communes 
+
+-> Vous pouvez être créatifs !
 
 
 
